@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973057517228",
+    "project_id": "datatable-a1011",
+    "storage_bucket": "datatable-a1011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973057517228:android:9b8339d7920178511d6109",
+        "android_client_info": {
+          "package_name": "com.example.datatable_sortable_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973057517228-p9253n0lde035a2t4drme9f71724nb5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHoO9zJmc4XXap0ifkg8cElHP0GF--4Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973057517228-p9253n0lde035a2t4drme9f71724nb5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
